@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2bfbd8e-af26-46d4-b763-60dda973a911" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myFirstJavaProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2bfbd8e-af26-46d4-b763-60dda973a911" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,28 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculate.executor": "Run",
-    "Application.Enbokstav.executor": "Run",
-    "Application.Hej.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Merstring.executor": "Run",
-    "Application.MyCar.executor": "Run",
-    "Application.MyInteger.executor": "Run",
-    "Application.Namn.executor": "Run",
-    "Application.Shopping.executor": "Run",
-    "Application.foore.executor": "Run",
-    "Application.ifall.executor": "Run",
-    "Application.medans.executor": "Run",
-    "Application.rektangel.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/aras/IdeaProjects/myFirstJavaProject/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enbokstav.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hej.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Namn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.foore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.medans.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rektangel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/aras/IdeaProjects/myFirstJavaProject/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +62,51 @@
       <option name="presentableId" value="Default" />
       <updated>1739822397304</updated>
     </task>
+    <task id="LOCAL−00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1740314125781</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1740314125781</updated>
+    </task>
+    <task id="LOCAL−00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1740314194092</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1740314194092</updated>
+    </task>
+    <task id="LOCAL−00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1740314226750</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1740314226750</updated>
+    </task>
+    <task id="LOCAL−00004" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1740314243817</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1740314243817</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

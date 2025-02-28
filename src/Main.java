@@ -1,9 +1,10 @@
+import Lektion4.Car;
 import Lektion4.Calculator;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        /*Scanner scanner = new Scanner(System.in);
 
         // Addition
         System.out.print("Addition: Enter the first number: ");
@@ -35,5 +36,15 @@ public class Main {
 
         System.out.println("Thank you for using the calculator!");
         scanner.close();
+         */
+        // Create a Car object and set the color
+        Car myCar = new Car("Blue");
+
+        // Display the car color
+        myCar.showColor();
+
+        // Start the car engine
+        myCar.startEngine();
+        myCar.stopEngine();
     }
 }

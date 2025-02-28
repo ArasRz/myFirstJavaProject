@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2bfbd8e-af26-46d4-b763-60dda973a911" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Lektion4/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lektion4/Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lektion4/Handling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lektion4/Obprog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lektion4/Safediv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lektion4/Safediv.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,32 +50,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculate.executor": "Run",
-    "Application.Decision.executor": "Run",
-    "Application.Enbokstav.executor": "Run",
-    "Application.Hej.executor": "Run",
-    "Application.HelloWorld.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Merstring.executor": "Run",
-    "Application.MyCar.executor": "Run",
-    "Application.MyInteger.executor": "Run",
-    "Application.Namn.executor": "Run",
-    "Application.Reapeating.executor": "Run",
-    "Application.Shopping.executor": "Run",
-    "Application.Storing.executor": "Run",
-    "Application.foore.executor": "Run",
-    "Application.ifall.executor": "Run",
-    "Application.medans.executor": "Run",
-    "Application.rektangel.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/aras/IdeaProjects/myFirstJavaProject/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Decision.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enbokstav.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hej.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Merstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyCar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Namn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reapeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Shopping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Storing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.foore.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.medans.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rektangel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/aras/IdeaProjects/myFirstJavaProject/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
